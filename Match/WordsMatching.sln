@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordsMatching", "WordsMatching.csproj", "{CFFEA5F4-2374-4336-956B-F6EDB9E2FBF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordNet.Net", "..\..\Library\cs\WordNet.Net.csproj", "{F12805B0-D74A-4E5B-A482-7C7CCB69D572}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFFEA5F4-2374-4336-956B-F6EDB9E2FBF1}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{CFFEA5F4-2374-4336-956B-F6EDB9E2FBF1}.Debug|Any CPU.Build.0 = Debug|x86
+		{CFFEA5F4-2374-4336-956B-F6EDB9E2FBF1}.Debug|x86.ActiveCfg = Debug|x86
+		{CFFEA5F4-2374-4336-956B-F6EDB9E2FBF1}.Debug|x86.Build.0 = Debug|x86
+		{CFFEA5F4-2374-4336-956B-F6EDB9E2FBF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFFEA5F4-2374-4336-956B-F6EDB9E2FBF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFFEA5F4-2374-4336-956B-F6EDB9E2FBF1}.Release|x86.ActiveCfg = Release|x86
+		{CFFEA5F4-2374-4336-956B-F6EDB9E2FBF1}.Release|x86.Build.0 = Release|x86
+		{F12805B0-D74A-4E5B-A482-7C7CCB69D572}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{F12805B0-D74A-4E5B-A482-7C7CCB69D572}.Debug|Any CPU.Build.0 = Debug|x86
+		{F12805B0-D74A-4E5B-A482-7C7CCB69D572}.Debug|x86.ActiveCfg = Debug|x86
+		{F12805B0-D74A-4E5B-A482-7C7CCB69D572}.Debug|x86.Build.0 = Debug|x86
+		{F12805B0-D74A-4E5B-A482-7C7CCB69D572}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F12805B0-D74A-4E5B-A482-7C7CCB69D572}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F12805B0-D74A-4E5B-A482-7C7CCB69D572}.Release|x86.ActiveCfg = Release|x86
+		{F12805B0-D74A-4E5B-A482-7C7CCB69D572}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(.Test) = postSolution
+		ActiveConfiguration = BuiltIn\Combined\CompleteAnalysis.tcfg
+		.TestFiles = .TEST\Products\symbols.xml;.TEST\Products\violations.xml;.TEST\Products\coverage.xml
+		GRSAttributes = <?xml version="1.0" encoding="utf-8"?><properties document_version = "1.0" />
+	EndGlobalSection
+EndGlobal

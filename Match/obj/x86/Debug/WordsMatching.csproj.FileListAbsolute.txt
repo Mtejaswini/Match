@@ -1,0 +1,40 @@
+D:\Files\github\new\wordnetdotnet-master\Projects\Thanh\bin\x86\Debug\WordsMatching.pdb
+D:\Files\github\new\wordnetdotnet-master\Projects\Thanh\bin\x86\Debug\WordNetClasses.dll
+D:\Files\github\new\wordnetdotnet-master\Projects\Thanh\bin\x86\Debug\WordNetClasses.pdb
+D:\Files\github\new\wordnetdotnet-master\Projects\Thanh\obj\x86\Debug\WordsMatching.csprojResolveAssemblyReference.cache
+D:\Files\github\new\wordnetdotnet-master\Projects\Thanh\obj\x86\Debug\WordsMatching.pdb
+D:\Files\github\new\wordnetdotnet-master\Projects\Thanh\obj\x86\Debug\WordsMatching.DemoForm.resources
+D:\Files\github\new\wordnetdotnet-master\Projects\Thanh\obj\x86\Debug\WordsMatching.csproj.GenerateResource.Cache
+D:\Files\github\new\wordnetdotnet-master\Projects\Thanh\bin\x86\Debug\WordsMatching.exe.config
+D:\Files\github\new\wordnetdotnet-master\Projects\Thanh\bin\x86\Debug\WordsMatching.exe
+D:\Files\github\new\wordnetdotnet-master\Projects\Thanh\obj\x86\Debug\WordsMatching.exe
+C:\Users\asus x\Documents\Bluetooth Folder\wordnetdotnet-master\Projects\Thanh\bin\x86\Debug\WordsMatching.exe.config
+C:\Users\asus x\Documents\Bluetooth Folder\wordnetdotnet-master\Projects\Thanh\obj\x86\Debug\WordsMatching.exe
+C:\Users\asus x\Documents\Bluetooth Folder\wordnetdotnet-master\Projects\Thanh\obj\x86\Debug\WordsMatching.pdb
+C:\Users\asus x\Documents\Bluetooth Folder\wordnetdotnet-master\Projects\Thanh\bin\x86\Debug\WordsMatching.exe
+C:\Users\asus x\Documents\Bluetooth Folder\wordnetdotnet-master\Projects\Thanh\bin\x86\Debug\WordsMatching.pdb
+C:\Users\asus x\Documents\Bluetooth Folder\wordnetdotnet-master\Projects\Thanh\bin\x86\Debug\WordNetClasses.dll
+C:\Users\asus x\Documents\Bluetooth Folder\wordnetdotnet-master\Projects\Thanh\bin\x86\Debug\WordNetClasses.pdb
+C:\Users\asus x\Documents\Bluetooth Folder\wordnetdotnet-master\Projects\Thanh\obj\x86\Debug\WordsMatching.csprojResolveAssemblyReference.cache
+C:\Users\asus x\Documents\Bluetooth Folder\wordnetdotnet-master\Projects\Thanh\obj\x86\Debug\WordsMatching.DemoForm.resources
+C:\Users\asus x\Documents\Bluetooth Folder\wordnetdotnet-master\Projects\Thanh\obj\x86\Debug\WordsMatching.csproj.GenerateResource.Cache
+C:\Users\asus x\Desktop\visual studio projects\running wordnet project\wordnetdotnet-master\Projects\Thanh\bin\x86\Debug\WordsMatching.exe.config
+C:\Users\asus x\Desktop\visual studio projects\running wordnet project\wordnetdotnet-master\Projects\Thanh\obj\x86\Debug\WordsMatching.exe
+C:\Users\asus x\Desktop\visual studio projects\running wordnet project\wordnetdotnet-master\Projects\Thanh\obj\x86\Debug\WordsMatching.pdb
+C:\Users\asus x\Desktop\visual studio projects\running wordnet project\wordnetdotnet-master\Projects\Thanh\bin\x86\Debug\WordsMatching.exe
+C:\Users\asus x\Desktop\visual studio projects\running wordnet project\wordnetdotnet-master\Projects\Thanh\bin\x86\Debug\WordsMatching.pdb
+C:\Users\asus x\Desktop\visual studio projects\running wordnet project\wordnetdotnet-master\Projects\Thanh\bin\x86\Debug\WordNetClasses.dll
+C:\Users\asus x\Desktop\visual studio projects\running wordnet project\wordnetdotnet-master\Projects\Thanh\bin\x86\Debug\WordNetClasses.pdb
+C:\Users\asus x\Desktop\visual studio projects\running wordnet project\wordnetdotnet-master\Projects\Thanh\obj\x86\Debug\WordsMatching.csprojResolveAssemblyReference.cache
+C:\Users\asus x\Desktop\visual studio projects\running wordnet project\wordnetdotnet-master\Projects\Thanh\obj\x86\Debug\WordsMatching.DemoForm.resources
+C:\Users\asus x\Desktop\visual studio projects\running wordnet project\wordnetdotnet-master\Projects\Thanh\obj\x86\Debug\WordsMatching.csproj.GenerateResource.Cache
+C:\Users\tejaswini\Desktop\wordnet matching\wordnetdotnet-master\Projects\Thanh\bin\x86\Debug\WordsMatching.exe.config
+C:\Users\tejaswini\Desktop\wordnet matching\wordnetdotnet-master\Projects\Thanh\obj\x86\Debug\WordsMatching.exe
+C:\Users\tejaswini\Desktop\wordnet matching\wordnetdotnet-master\Projects\Thanh\obj\x86\Debug\WordsMatching.pdb
+C:\Users\tejaswini\Desktop\wordnet matching\wordnetdotnet-master\Projects\Thanh\obj\x86\Debug\WordsMatching.csprojResolveAssemblyReference.cache
+C:\Users\tejaswini\Desktop\wordnet matching\wordnetdotnet-master\Projects\Thanh\obj\x86\Debug\WordsMatching.DemoForm.resources
+C:\Users\tejaswini\Desktop\wordnet matching\wordnetdotnet-master\Projects\Thanh\obj\x86\Debug\WordsMatching.csproj.GenerateResource.Cache
+C:\Users\tejaswini\Desktop\wordnet matching\wordnetdotnet-master\Projects\Thanh\bin\x86\Debug\WordsMatching.exe
+C:\Users\tejaswini\Desktop\wordnet matching\wordnetdotnet-master\Projects\Thanh\bin\x86\Debug\WordsMatching.pdb
+C:\Users\tejaswini\Desktop\wordnet matching\wordnetdotnet-master\Projects\Thanh\bin\x86\Debug\WordNetClasses.dll
+C:\Users\tejaswini\Desktop\wordnet matching\wordnetdotnet-master\Projects\Thanh\bin\x86\Debug\WordNetClasses.pdb

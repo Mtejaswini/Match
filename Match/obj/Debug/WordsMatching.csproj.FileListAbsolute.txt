@@ -1,0 +1,9 @@
+D:\Files\github\new\wordnetdotnet-master\Projects\Thanh\bin\Debug\WordsMatching.exe
+D:\Files\github\new\wordnetdotnet-master\Projects\Thanh\bin\Debug\WordsMatching.pdb
+D:\Files\github\new\wordnetdotnet-master\Projects\Thanh\bin\Debug\WordNetClasses.dll
+D:\Files\github\new\wordnetdotnet-master\Projects\Thanh\bin\Debug\WordNetClasses.pdb
+D:\Files\github\new\wordnetdotnet-master\Projects\Thanh\obj\Debug\WordsMatching.csprojResolveAssemblyReference.cache
+D:\Files\github\new\wordnetdotnet-master\Projects\Thanh\obj\Debug\WordsMatching.exe
+D:\Files\github\new\wordnetdotnet-master\Projects\Thanh\obj\Debug\WordsMatching.pdb
+D:\Files\github\new\wordnetdotnet-master\Projects\Thanh\obj\Debug\WordsMatching.DemoForm.resources
+D:\Files\github\new\wordnetdotnet-master\Projects\Thanh\obj\Debug\WordsMatching.csproj.GenerateResource.Cache
